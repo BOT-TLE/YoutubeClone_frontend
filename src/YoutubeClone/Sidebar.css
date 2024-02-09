@@ -1,0 +1,28 @@
+.sidebar{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 72px;
+    top: 55px;
+    background-color: white;
+    z-index: 200;
+}
+.sidebox-items{
+    height: 70px;
+    margin-bottom: 2px;
+}
+.sidebox-items:hover{
+    background-color: rgb(238, 238, 238);
+    cursor: pointer;
+}
+.text-style{
+    font-family: Roboto, Arial;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 3px;
+}
+.common{
+    padding-left: 23px;
+    padding-top: 20px;
+    height: 24px;
+}
